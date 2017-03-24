@@ -1,0 +1,11 @@
+
+
+
+
+
+npm install uuid @types/uuid --save
+npm install electron --save-dev
+npm install @types/node --save
+
+
+npm install ssh2shell --save
